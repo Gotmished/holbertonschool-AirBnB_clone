@@ -3,5 +3,8 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+}
+
+header img {
     padding-left: 20px;
 }
