@@ -22,3 +22,26 @@ button {
 button:hover {
     opacity: 90%;
 }
+
+.locations, .amenities {
+    height: 100%;
+    width: 25%;
+    display: inline-block;
+}
+
+.amenities {
+    position: absolute;
+    border-left: 1px solid #DDDDDD;
+    height: 70px;
+}
+
+.filters h3 {
+    font-weight: 600;
+    margin: 11px 0 0 40px
+}
+
+.filters h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 4px 0 0 40px;
+}
