@@ -30,7 +30,6 @@ button:hover {
 }
 
 .amenities {
-    position: absolute;
     border-left: 1px solid #DDDDDD;
     height: 70px;
 }
