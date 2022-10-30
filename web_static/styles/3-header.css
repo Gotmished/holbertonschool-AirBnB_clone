@@ -5,6 +5,9 @@ header {
     border-bottom: 1px solid #CCCCCC;
 }
 
-header img {
-    padding-left: 20px;
+.header-icon {
+    margin-left: 20px;
+    height: 60px;
+    width: 142px;
+    background-repeat: no-repeat;
 }
